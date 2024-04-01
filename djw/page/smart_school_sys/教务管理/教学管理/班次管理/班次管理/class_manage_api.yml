@@ -1,0 +1,16 @@
+查询班次:
+  url: dsf5/meta/list/data
+  method: get
+  params:
+    pageNum: 1
+    pageSize: 15
+    query:
+      searchValue: ${class_key}
+    order:
+      - code: ds_order
+        sort: asc
+    filter: []
+    namespace: teas.classes.info
+    pageName: teaslist
+    type: 1
+    t: 1635406962618

@@ -1,0 +1,4 @@
+# -*- coding: utf-8 -*-
+# 系统管理员
+admin:
+  - { "username": "dreamsoft", "password": "1q2w#E$R" }

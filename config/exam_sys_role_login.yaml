@@ -1,0 +1,11 @@
+# -*- coding: utf-8 -*-
+# 系统管理员
+admin:
+  - { "username": "dreamsoft", "password": "1q2w#E$R" }
+# 考试系统题型默认设置分数
+score:
+  单选题: 5
+  多选题: 6
+  判断题: 7
+  填空题: 8
+  主观题: 10

@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+# 系统管理员
+admin:
+  - { "username": "teasbase", "password": 'Aa@jiaowu' }
+# 人事系统管理员
+personnel_admin:
+  - { "username": 'teasbase',"password": 'Aa@jiaowu' }
+# 教学资源管理员
+source_admin:
+  - { 'username': 'teasbase', "password": 'Aa@jiaowu' }

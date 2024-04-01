@@ -1,0 +1,59 @@
+﻿# encoding=utf-8
+# 招生管理员
+enrolladmin:
+  - { "username": "enrolladmin", "password": "111111","名称": "招生管理员" }
+# 基础数据管理员
+baseadmin:
+  - { "username": "baseadmin", "password": "111111" }
+# 教学管理员
+teachadmin:
+  - { "username": "teachadmin","password": "111111" }
+  - { "username": "zhaoqingbo","password": "111111" }
+
+# 以下账户是模拟中央党校场景简历的角色
+
+# 管理员
+admin:
+  - { "username": "admin", "password": "admin8888" }
+# 院长
+dean:
+  - { "username": "yuanz","password": "111111" }
+# 校内教师
+teacher:
+  - { "username": "xiaonjs","password": "111111" }
+# 课程负责人
+lessonleader:
+  - { "username": "kecfzr","password": "111111" }
+# 学工委书记
+stuclerk:
+  - { "username": "xuegw","password": "111111" }
+# 导师
+tutor:
+  - { "username": "daos","password": "111111" }
+# 研究生秘书
+clerk:
+  - { "username": "yanjsms","password": "111111" }
+# 组织员
+organizer:
+  - { "username": "zuzy","password": "111111" }
+# 培养处人员
+trainer:
+  - { "username": "peiycry","password": "111111" }
+# 学生处人员
+stupeople:
+  - { "username": "xuescry","password": "111111" }
+# 招生办公室人员
+enroller:
+  - { "username": "zhaosbgs","password": "111111" }
+# 分管院领导
+branchdean:
+  - { "username": "fengyld","password": "111111" }
+# 办公室人员
+officer:
+  - { "username": "bangsry","password": "111111" }
+# 班主任人员
+headmaster:
+  - { "username": "banzr","password": "111111" }
+# 研究生处管理员
+graduatemanager:
+  - { "username": "zqbyjs","password": "111111"}
